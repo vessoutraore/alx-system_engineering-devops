@@ -6,4 +6,6 @@
 
 [2-groups](https://github.com/vessoutraore/alx-system_engineering-devops/tree/master/0x01-shell_permissions/2-groups "2-groups"): Script that prints all the groups the current user is part of.
 
-[3-new_owner](https://github.com/vessoutraore/alx-system_engineering-devops/tree/master/0x01-shell_permissions/3-new_owner "3-new_owner"): Script that changes the owner of the file hello to the user betty. 
+[3-new_owner](https://github.com/vessoutraore/alx-system_engineering-devops/tree/master/0x01-shell_permissions/3-new_owner "3-new_owner"): Script that changes the owner of the file hello to the user betty.
+
+[4-empty](https://github.com/vessoutraore/alx-system_engineering-devops/tree/master/0x01-shell_permissions/4-empty "4-empty"): Script that creates an empty file called hello. 
