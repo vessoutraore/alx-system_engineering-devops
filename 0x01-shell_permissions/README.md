@@ -4,4 +4,6 @@
 
 [1-who_am_i](https://github.com/vessoutraore/alx-system_engineering-devops/tree/master/0x01-shell_permissions/1-who_am_i "1-who_am_i"): Script that prints the effective username of the current user.
 
-[2-groups](https://github.com/vessoutraore/alx-system_engineering-devops/tree/master/0x01-shell_permissions/2-groups "2-groups"): Script that prints all the groups the current user is part of. 
+[2-groups](https://github.com/vessoutraore/alx-system_engineering-devops/tree/master/0x01-shell_permissions/2-groups "2-groups"): Script that prints all the groups the current user is part of.
+
+[3-new_owner](https://github.com/vessoutraore/alx-system_engineering-devops/tree/master/0x01-shell_permissions/3-new_owner "3-new_owner"): Script that changes the owner of the file hello to the user betty. 
