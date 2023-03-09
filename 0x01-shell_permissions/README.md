@@ -20,3 +20,5 @@
 * Owner: no permission at all
 * Group: no permission at all
 * Other users: all the permissions
+[9-John_Doe](https://github.com/vessoutraore/alx-system_engineering-devops/tree/master/0x01-shell_permissions/9-John_Doe "9-John_Doe"): Script that sets the mode of -rwxr-x-wx 1 julien julien 23 Sep 20 14:25 hello
+
