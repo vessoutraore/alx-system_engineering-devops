@@ -26,3 +26,13 @@ DevOps is a set of practices, tools, and a cultural philosophy that automate and
 
 # Learning Objectives
 At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/?fbclid=IwAR2K5_BGPVo0QjJXkOIIqNsqcXK4lTskPWJvA0asKQIGtCPWaQBdKmj1Ztg "explain to anyone"), without the help of Google:
+
+# Requirements
+* Resources
+* Concepts
+* PLD
+* Pratice
+
+# Projects
+1. [0x00-shell_basics]()
+2. [0x01-shell_permissions]()
