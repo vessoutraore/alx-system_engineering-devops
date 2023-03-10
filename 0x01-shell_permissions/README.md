@@ -29,4 +29,4 @@
 
 [12-directory_permissions](https://github.com/vessoutraore/alx-system_engineering-devops/tree/master/0x01-shell_permissions/12-directory_permissions "12-directory_permissions"): Script that creates a directory called my_dir with permissions 751 in the working directory.
 
-[13-change_group](https://github.com/vessoutraore/alx-system_engineering-devops/tree/master/0x01-shell_permissions/13-change_group "13-change_group): Script that changes the group owner to school for the file hello.
+[13-change_group](https://github.com/vessoutraore/alx-system_engineering-devops/tree/master/0x01-shell_permissions/13-change_group "13-change_group"): Script that changes the group owner to school for the file hello.
