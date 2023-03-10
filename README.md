@@ -23,3 +23,6 @@ DevOps is a set of practices, tools, and a cultural philosophy that automate and
 **TECHNOLOGIES** : 
 *C programming*, *Graphic programming*, *Unix programming*, *Data Structures & algorithms*, *Reverse engineering & security*.
 *Create a complete web service from databases, back-end and an amazing front-end website with the latest technologies.
+
+# Learning Objectives
+At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/?fbclid=IwAR2K5_BGPVo0QjJXkOIIqNsqcXK4lTskPWJvA0asKQIGtCPWaQBdKmj1Ztg "explain to anyone"), without the help of Google:
