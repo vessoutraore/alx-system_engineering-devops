@@ -36,3 +36,6 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 # Projects
 1. [0x00-shell_basics]()
 2. [0x01-shell_permissions]()
+
+# Credits
+Collaborators are acknowledged within each project
