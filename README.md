@@ -14,12 +14,12 @@ DevOps is a set of practices, tools, and a cultural philosophy that automate and
 *Reverse engineering & security*.
 *Understand programming languages and Unix system work or “what is going on under the hood”.
 
-2.High Level (3 mouths)
+2. High Level (3 mouths)
 **TECHNOLOGIES** :
 *Python*, *Front-end*, *Object Oriented*, *programming*, *Databases*.
 *Create a complete web service from databases, back-end and an amazing front-end website with the latest technologies.
 
 3. DevOps (3 mouths)
-4. **TECHNOLOGIES** : 
+**TECHNOLOGIES** : 
 *C programming*, *Graphic programming*, *Unix programming*, *Data Structures & algorithms*, *Reverse engineering & security*.
 *Create a complete web service from databases, back-end and an amazing front-end website with the latest technologies.
