@@ -2,4 +2,4 @@
 
 DevOps is a set of practices, tools, and a cultural philosophy that automate and integrate the processes between software development and IT teams. It emphasizes team empowerment, cross-team communication and collaboration, and technology automation.(Source "https://www.atlassian.com/devops")
 
-![System_engineering-devops](https://drive.google.com/drive/my-drive)
+![devops](https://user-images.githubusercontent.com/126578500/224360141-6994cd3e-d6f5-4be1-996b-dca3ed46d4c7.jpeg)
