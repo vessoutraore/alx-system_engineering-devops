@@ -34,8 +34,8 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 * Pratice
 
 # Projects
-1. [0x00-shell_basics]()
-2. [0x01-shell_permissions]()
+1. [0x00-shell_basics](https://github.com/vessoutraore/alx-system_engineering-devops/tree/master/0x00-shell_basics)
+2. [0x01-shell_permissions](https://github.com/vessoutraore/alx-system_engineering-devops/tree/master/0x01-shell_permissions)
 
 # Credits
 Collaborators are acknowledged within each project
