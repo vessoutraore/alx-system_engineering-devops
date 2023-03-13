@@ -70,3 +70,5 @@ Note: You do not have to learn about fmt, pr, du, gzip, tar, lpr, sed and awk ye
 [2-hellofile](https://github.com/vessoutraore/alx-system_engineering-devops/blob/master/0x02-shell_redirections/2-hellofile "2-hellofile"): Script that displays the content of the /etc/passwd file.
 
 [3-twofiles](https://github.com/vessoutraore/alx-system_engineering-devops/blob/master/0x02-shell_redirections/3-twofiles "3-twofiles"): Script that displays the content of the /etc/passwd and /etc/hosts.
+
+[4-lastlines](https://github.com/vessoutraore/alx-system_engineering-devops/blob/master/0x02-shell_redirections/3-twofiles "3-twofiles"): Script that displays the last 10 lines of /etc/passwd.
