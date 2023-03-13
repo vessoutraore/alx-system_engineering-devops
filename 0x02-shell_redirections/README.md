@@ -104,3 +104,5 @@ Note: You do not have to learn about fmt, pr, du, gzip, tar, lpr, sed and awk ye
 [19-AZ](https://github.com/vessoutraore/alx-system_engineering-devops/blob/master/0x02-shell_redirections/19-AZ "19-AZ"): Script that replace all characters A and c from input to Z and e respectively 
 
 [20-hiago](https://github.com/vessoutraore/alx-system_engineering-devops/blob/master/0x02-shell_redirections/20-hiago "20-hiago"): Script that creates removes all letters c and C from input.
+
+[21-reverse](https://github.com/vessoutraore/alx-system_engineering-devops/blob/master/0x02-shell_redirections/21-reverse "21-reverse"):script that reverse its input.
