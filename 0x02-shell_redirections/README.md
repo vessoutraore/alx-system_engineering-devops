@@ -90,3 +90,5 @@ Note: You do not have to learn about fmt, pr, du, gzip, tar, lpr, sed and awk ye
 [12-newest_files](https://github.com/vessoutraore/alx-system_engineering-devops/blob/master/0x02-shell_redirections/12-newest_files "12-newest_files"): Script that displays the 10 newest files in the current directory. Requirements: One file per line. Sorted from the newest to the oldest 
 
 [13-unique](https://github.com/vessoutraore/alx-system_engineering-devops/blob/master/0x02-shell_redirections/13-unique "13-unique"): script that takes a list of words as input and prints only words that appear exactly once. Input format: One line, one word. Output format: One line, one word. Words should be sorted
+
+[14-findthatword](https://github.com/vessoutraore/alx-system_engineering-devops/blob/master/0x02-shell_redirections/13-unique "13-unique"): script that displays lines containing the pattern "root" from the file /etc/passwd .
