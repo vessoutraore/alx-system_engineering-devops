@@ -96,3 +96,7 @@ Note: You do not have to learn about fmt, pr, du, gzip, tar, lpr, sed and awk ye
 [15-countthatword](https://github.com/vessoutraore/alx-system_engineering-devops/blob/master/0x02-shell_redirections/15-counthatword "15-counthatword"): script that displays the number of lines that contain the pattern "bin" in the file /etc/passwd .
 
 [16-whatsnext](https://github.com/vessoutraore/alx-system_engineering-devops/blob/master/0x02-shell_redirections/16-whatsnext "16-whatsnext"): Script that display lines containing the pattern “root” and 3 lines after them in the file /etc/passwd.
+
+[17-hidethisword](https://github.com/vessoutraore/alx-system_engineering-devops/blob/master/0x02-shell_redirections/17-hidethisword "17-hidethisword"): Script that display all the lines in the file /etc/passwd that do not contain the pattern “bin”.
+
+
