@@ -62,6 +62,6 @@ Read your /etc/passwd and /etc/shadow files.
 
 Note: You do not have to learn about fmt, pr, du, gzip, tar, lpr, sed and awk yet.
 
-*All your scripts should exaxtly be two lines* 
+*All your scripts should exactly be two lines* 
 
 [0. Hello World](https://github.com/vessoutraore/alx-system_engineering-devops/blob/master/0x00-shell_basics/0-hello_world "0-hello_world"): Script that prints “Hello, World”, followed by a new line to the standard output.
