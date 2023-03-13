@@ -66,3 +66,5 @@ Note: You do not have to learn about fmt, pr, du, gzip, tar, lpr, sed and awk ye
 
 [0.Hello World](https://github.com/vessoutraore/alx-system_engineering-devops/blob/master/0x02-shell_redirections/0-hello_world "0-hello_world"): Script that prints “Hello, World”, followed by a new line to the standard output.
 [1.Confused smiley](https://github.com/vessoutraore/alx-system_engineering-devops/blob/master/0x02-shell_redirections/1-confused_smiley "1-confused_smiley"): script that displays a confused smiley "(Ôo)'.
+
+[2-hellofile](https://github.com/vessoutraore/alx-system_engineering-devops/blob/master/0x02-shell_redirections/2-hellofile "2-hellofile"): Script that displays the content of the /etc/passwd file.
