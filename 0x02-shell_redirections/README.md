@@ -76,3 +76,5 @@ Note: You do not have to learn about fmt, pr, du, gzip, tar, lpr, sed and awk ye
 [5-firstlines](https://github.com/vessoutraore/alx-system_engineering-devops/blob/master/0x02-shell_redirections/5-firstlines "5-firstlines"): Script that displays the first 10 lines of /etc/passwd.
 
 [6-thirdlines](https://github.com/vessoutraore/alx-system_engineering-devops/blob/master/0x02-shell_redirections/6-third_line "6-third_line"): Script that displays the third line of the iacta.
+
+[7-file](https://github.com/vessoutraore/alx-system_engineering-devops/blob/master/0x02-shell_redirections/7-file "7-file"): Write a shell script that creates a file named exactly "\*\\'"Best School"\'\\*$\?\*\*\*\*\*:)" containing the text Best School ending by a new line.
