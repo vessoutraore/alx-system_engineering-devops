@@ -99,4 +99,6 @@ Note: You do not have to learn about fmt, pr, du, gzip, tar, lpr, sed and awk ye
 
 [17-hidethisword](https://github.com/vessoutraore/alx-system_engineering-devops/blob/master/0x02-shell_redirections/17-hidethisword "17-hidethisword"): Script that display all the lines in the file /etc/passwd that do not contain the pattern “bin”.
 
+[18-letteronly](https://github.com/vessoutraore/alx-system_engineering-devops/blob/master/0x02-shell_redirections/18-letteronly "18-letteronly"): Script that display all lines of the file /etc/ssh/sshd_config starting with a letter.include capital letters as well.
+
 
