@@ -91,4 +91,8 @@ Note: You do not have to learn about fmt, pr, du, gzip, tar, lpr, sed and awk ye
 
 [13-unique](https://github.com/vessoutraore/alx-system_engineering-devops/blob/master/0x02-shell_redirections/13-unique "13-unique"): script that takes a list of words as input and prints only words that appear exactly once. Input format: One line, one word. Output format: One line, one word. Words should be sorted
 
-[14-findthatword](https://github.com/vessoutraore/alx-system_engineering-devops/blob/master/0x02-shell_redirections/13-unique "13-unique"): script that displays lines containing the pattern "root" from the file /etc/passwd .
+[14-findthatword](https://github.com/vessoutraore/alx-system_engineering-devops/blob/master/0x02-shell_redirections/14-findthatword "14-findthatword"): script that displays lines containing the pattern "root" from the file /etc/passwd .
+
+[15-countthatword](https://github.com/vessoutraore/alx-system_engineering-devops/blob/master/0x02-shell_redirections/15-counthatword "15-counthatword"): script that displays the number of lines that contain the pattern "bin" in the file /etc/passwd .
+
+[16-whatsnext](https://github.com/vessoutraore/alx-system_engineering-devops/blob/master/0x02-shell_redirections/16-whatsnext "16-whatsnext"): Script that display lines containing the pattern “root” and 3 lines after them in the file /etc/passwd.
