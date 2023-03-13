@@ -106,3 +106,5 @@ Note: You do not have to learn about fmt, pr, du, gzip, tar, lpr, sed and awk ye
 [20-hiago](https://github.com/vessoutraore/alx-system_engineering-devops/blob/master/0x02-shell_redirections/20-hiago "20-hiago"): Script that creates removes all letters c and C from input.
 
 [21-reverse](https://github.com/vessoutraore/alx-system_engineering-devops/blob/master/0x02-shell_redirections/21-reverse "21-reverse"):script that reverse its input.
+
+[22-users_and_homes](https://github.com/vessoutraore/alx-system_engineering-devops/blob/master/0x02-shell_redirections/22-users_and_homes "22-users_and_homes"): Script that displays all users and their home directories, sorted by users. Based on the the /etc/passwd file.
