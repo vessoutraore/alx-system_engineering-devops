@@ -12,17 +12,20 @@ DevOps is a set of practices, tools, and a cultural philosophy that automate and
 *Unix programming*,
 *Data Structures & algorithms*,
 *Reverse engineering & security*.
-*Understand programming languages and Unix system work or “what is going on under the hood”.
+
+* Understand programming languages and Unix system work or “what is going on under the hood”.
 
 2. High Level (3 mouths)
 **TECHNOLOGIES** :
 *Python*, *Front-end*, *Object Oriented*, *programming*, *Databases*.
-*Create a complete web service from databases, back-end and an amazing front-end website with the latest technologies.
+
+* Create a complete web service from databases, back-end and an amazing front-end website with the latest technologies.
 
 3. DevOps (3 mouths)
 **TECHNOLOGIES** : 
 *C programming*, *Graphic programming*, *Unix programming*, *Data Structures & algorithms*, *Reverse engineering & security*.
-*Create a complete web service from databases, back-end and an amazing front-end website with the latest technologies.
+
+* Create a complete web service from databases, back-end and an amazing front-end website with the latest technologies.
 
 # Learning Objectives
 At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/?fbclid=IwAR2K5_BGPVo0QjJXkOIIqNsqcXK4lTskPWJvA0asKQIGtCPWaQBdKmj1Ztg "explain to anyone"), without the help of Google:
