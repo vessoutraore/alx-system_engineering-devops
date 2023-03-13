@@ -78,3 +78,5 @@ Note: You do not have to learn about fmt, pr, du, gzip, tar, lpr, sed and awk ye
 [6-thirdlines](https://github.com/vessoutraore/alx-system_engineering-devops/blob/master/0x02-shell_redirections/6-third_line "6-third_line"): Script that displays the third line of the iacta.
 
 [7-file](https://github.com/vessoutraore/alx-system_engineering-devops/blob/master/0x02-shell_redirections/7-file "7-file"): Write a shell script that creates a file named exactly "\*\\'"Best School"\'\\*$\?\*\*\*\*\*:)" containing the text Best School ending by a new line.
+
+[8-cwd_state](https://github.com/vessoutraore/alx-system_engineering-devops/blob/master/0x02-shell_redirections/8-cwd_state "8-cw_state"): script that writes into the file ls_cwd_content the result of the command ls -la. If the file ls_cwd_content already exists, it should be overwritten. If the file ls_cwd_content does not exist, create it.
