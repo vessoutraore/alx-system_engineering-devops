@@ -22,7 +22,7 @@
 * passwd (5) (i.e. man 5 passwd)
 
 ## Learning Objectives
-At the end of this project, you are expected to be able to [explain to anyone$](https://fs.blog/feynman-learning-technique/?fbclid=IwAR2K5_BGPVo0QjJXkOIIqNsqcXK4lTskPWJvA0asKQIGtCPWaQBdKmj1Ztg "explain to anyone"), without the help of Google:
+At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/?fbclid=IwAR2K5_BGPVo0QjJXkOIIqNsqcXK4lTskPWJvA0asKQIGtCPWaQBdKmj1Ztg "explain to anyone"), without the help of Google:
 
 1. Shell, I/O Redirection
 
@@ -62,4 +62,6 @@ Read your /etc/passwd and /etc/shadow files.
 
 Note: You do not have to learn about fmt, pr, du, gzip, tar, lpr, sed and awk yet.
 
-[0. Hello World](https://github.com/vessoutraore/alx-system_engineering-devops/blob/master/0x00-shell_basics/0-hello_world "0-hello_world"): Sscript that prints “Hello, World”, followed by a new line to the standard output.
+*All your scripts should exaxtly be two lines* 
+
+[0. Hello World](https://github.com/vessoutraore/alx-system_engineering-devops/blob/master/0x00-shell_basics/0-hello_world "0-hello_world"): Script that prints “Hello, World”, followed by a new line to the standard output.
