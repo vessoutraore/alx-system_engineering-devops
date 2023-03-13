@@ -84,3 +84,5 @@ Note: You do not have to learn about fmt, pr, du, gzip, tar, lpr, sed and awk ye
 [9-duplicate_last_line](https://github.com/vessoutraore/alx-system_engineering-devops/blob/master/0x02-shell_redirections/9-duplicate_last_line "9-duplicate_last_line"):  script that duplicates the last line of the file iacta. The file iacta will be in the working directory 
 
 [10-no_more_js](https://github.com/vessoutraore/alx-system_engineering-devops/blob/master/0x02-shell_redirections/10-no_more_js "10-no_more_js"):  script that deletes all the regular files (not the directories) with a .js extension that are present in the current directory and all its. 
+
+[11-directories](https://github.com/vessoutraore/alx-system_engineering-devops/blob/master/0x02-shell_redirections/11-directories "11-directories"):Script that counts the number of directories and sub-directories in the current directory. The current and parent directories should not be taken into account. Hidden directories should be counted 
