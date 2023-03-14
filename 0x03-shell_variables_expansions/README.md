@@ -105,3 +105,5 @@ Note: You do not have to learn about awk, tar, bzip2, date, scp, ulimit, umask, 
 [8-true_knowledge](https://github.com/vessoutraore/alx-system_engineering-devops/tree/master/8-true_knowledge "8-true_knowledge"): Script  that prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE, followed by a new line.
 
 [9-divide_and_rule](https://github.com/vessoutraore/alx-system_engineering-devops/tree/master/9-divide_and_rule "9-divide_and_rule"): Script that prints the result of POWER divided by DIVIDE, followed by a new line. POWER and DIVIDE are environment variables
+
+[10-love_exponent_breath](https://github.com/vessoutraore/alx-system_engineering-devops/tree/master/10-love_exponent_breath "10-love_exponent_breath"): Script that displays the result of BREATH to the power LOVE. BREATH and LOVE are environment variables. The script should display the result, followed by a new line
