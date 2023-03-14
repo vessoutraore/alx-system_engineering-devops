@@ -92,4 +92,6 @@ Note: You do not have to learn about awk, tar, bzip2, date, scp, ulimit, umask, 
 
 [2-path](https://github.com/vessoutraore/alx-system_engineering-devops/tree/master/2-path "2-path"): Add /action to the PATH. /action should be the last directory the shell looks into when looking for a program.
 
+[3-paths](https://github.com/vessoutraore/alx-system_engineering-devops/tree/master/2-paths "2-paths"): Script that counts the number of directories in the PATH.
 
+[4-global_variables](https://github.com/vessoutraore/alx-system_engineering-devops/tree/master/4-global_variables "4-global_variables"): Script that lists environment variables.
