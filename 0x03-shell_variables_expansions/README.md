@@ -92,3 +92,5 @@ Note: You do not have to learn about awk, tar, bzip2, date, scp, ulimit, umask, 
 
 [0-alias](https://github.com/vessoutraore/alx-system_engineering-devops/tree/master/0-alias "0-alias"): Script that create an alias. Name: ls et valeur :rm *
 
+[1-hello_you](https://github.com/vessoutraore/alx-system_engineering-devops/tree/master/1-hello_you "1-hello_you"): Script that prints hello user, where user is the current Linux user. 
+
