@@ -103,3 +103,5 @@ Note: You do not have to learn about awk, tar, bzip2, date, scp, ulimit, umask, 
 [7-create_global_variable](https://github.com/vessoutraore/alx-system_engineering-devops/tree/master/7-create_global_variable "7-create_global_variable"): Script that creates a new global variable.
 
 [8-true_knowledge](https://github.com/vessoutraore/alx-system_engineering-devops/tree/master/8-true_knowledge "8-true_knowledge"): Script  that prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE, followed by a new line.
+
+[9-divide_and_rule](https://github.com/vessoutraore/alx-system_engineering-devops/tree/master/9-divide_and_rule "9-divide_and_rule"): Script that prints the result of POWER divided by DIVIDE, followed by a new line. POWER and DIVIDE are environment variables
