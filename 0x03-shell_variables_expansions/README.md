@@ -94,3 +94,6 @@ Note: You do not have to learn about awk, tar, bzip2, date, scp, ulimit, umask, 
 
 [1-hello_you](https://github.com/vessoutraore/alx-system_engineering-devops/tree/master/1-hello_you "1-hello_you"): Script that prints hello user, where user is the current Linux user. 
 
+[2-path](https://github.com/vessoutraore/alx-system_engineering-devops/tree/master/2-path "2-path"): Add /action to the PATH. /action should be the last directory the shell looks into when looking for a program.
+
+
