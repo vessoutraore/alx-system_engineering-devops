@@ -97,3 +97,5 @@ Note: You do not have to learn about awk, tar, bzip2, date, scp, ulimit, umask, 
 [4-global_variables](https://github.com/vessoutraore/alx-system_engineering-devops/tree/master/4-global_variables "4-global_variables"): Script that lists environment variables.
 
 [5-ocal_variables](https://github.com/vessoutraore/alx-system_engineering-devops/tree/master/5-local_variables "5-local_variables"): cript that lists all local variables and environment variables, and functions.
+
+[6-create_local_variable](https://github.com/vessoutraore/alx-system_engineering-devops/tree/master/6-create_local_variable "6-create_local_variable"): Script that creates a new local variable.
